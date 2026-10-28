@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.DS_Store
+results/
+logs/
+wandb/
+saved_model_arabert_ner/
+*.pth
+*.safetensors
