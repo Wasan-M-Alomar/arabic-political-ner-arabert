@@ -17,7 +17,7 @@
 ---
 
 <a id="english"></a>
-## 🇬🇧 English
+## English
 
 ### Overview
 A Named Entity Recognition (NER) system for **Arabic political text**, built by fine-tuning the pre-trained **AraBERT** transformer. The system automatically extracts **persons, organizations, locations and miscellaneous entities** from political letters, speeches and diplomatic correspondence, to support faster and more accurate decision-making in governmental and diplomatic work.
@@ -111,7 +111,7 @@ Or open the notebook directly in **Google Colab**. A GPU is recommended for trai
 <a id="arabic"></a>
 <div dir="rtl">
 
-## 🇸🇦 العربية
+## العربية
 
 ### نظرة عامة
 نظام للتعرّف على الكيانات المسمّاة (NER) في **النصوص السياسية العربية**، مبني بتدريب نموذج **AraBERT** المُدرَّب مسبقاً وتخصيصه لهذه المهمة. يستخرج النظام تلقائياً **الأشخاص والمنظمات والمواقع والكيانات الأخرى** من الخطابات والرسائل السياسية والمراسلات الدبلوماسية، بهدف تسريع اتخاذ القرار ورفع دقته في العمل الحكومي والدبلوماسي.
